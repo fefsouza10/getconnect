@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1046847079588",
+    "project_id": "getconnect-test",
+    "storage_bucket": "getconnect-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046847079588:android:698edf393f9970d1f51231",
+        "android_client_info": {
+          "package_name": "com.fefsouza10.getconnect_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjUv4JlYfqdw-Un_gbYrAYnkYDkWt71OQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
